@@ -1,0 +1,54 @@
+@font-face{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./roboto-400.woff2') format('woff2');
+}
+@font-face{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./roboto-500.woff2') format('woff2');
+}
+@font-face{
+  font-family: 'Roboto-Regular';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./roboto-400.woff2') format('woff2');
+}
+@font-face{
+  font-family: 'Roboto-Medium';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./roboto-500.woff2') format('woff2');
+}
+@font-face{
+  font-family: 'Roboto Medium';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./roboto-500.woff2') format('woff2');
+}
+@font-face{
+  font-family: 'Cairo';
+  font-style: normal;
+  font-weight: 200 1000;
+  font-display: swap;
+  src: url('./Cairo-VariableFont_slnt_wght.ttf') format('truetype');
+}
+@font-face{
+  font-family: 'FontAwesome5Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fa-regular-400.woff2') format('woff2');
+}
+@font-face{
+  font-family: 'FontAwesome5Pro-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fa-regular-400.woff2') format('woff2');
+}
